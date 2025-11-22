@@ -4,7 +4,7 @@
 
 Me chamo Maria Julia Talamini, tenho 18 anos e sou natural de Santa Catarina. Atualmente, estou cursando Engenharia de Software na Unisatc. Sou apaixonada por tecnologia e me considero uma pessoa muito curiosa quando se trata dessa área, sempre pronta para aprender novos conhecimentos.
 
-Minha principal meta profissional é me especializar no desenvolvimento Front-End, uma área que me atrai profundamente. Nos dias atuais, estou construindo minha base com o estudo de HTML e buscando formalizar esse conhecimento por meio de cursos. Meu diferencial é a experiência prévia com Python e SQL, o que me oferece uma sólida fundação em lógica de programação e manipulação de dados, habilidades essenciais para uma visão Full-Stack."
+Ainda estou buscando em qual área quero me especializar, porém sou uma pessoa pronta para novos desafios e com sede de aprender novos conhecimentos"
 
 <p align="left">
     <a href="https://www.instagram.com/mjulia.ta/">

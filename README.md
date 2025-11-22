@@ -4,7 +4,7 @@
 
 Me chamo Maria Julia Talamini, tenho 18 anos e sou natural de Santa Catarina. Atualmente, estou cursando Engenharia de Software na Unisatc. Sou apaixonada por tecnologia e me considero uma pessoa muito curiosa quando se trata dessa área, sempre pronta para aprender novos conhecimentos.
 
-Ainda estou buscando em qual área quero me especializar, porém sou uma pessoa pronta para novos desafios e com sede de aprender novos conhecimentos"
+Ainda estou buscando em qual área quero me especializar, porém sou uma pessoa pronta para novos desafios e com sede de aprender novos conhecimentos.
 
 <p align="left">
     <a href="https://www.instagram.com/mjulia.ta/">
